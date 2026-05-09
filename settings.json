@@ -1,0 +1,9 @@
+{
+    "cmake.cmakePath": "C:/Users/leoeugenio/Documents/cmake-4.0.2-windows-x86_64/bin/cmake.exe",
+    "cmake.environment": {
+        "PATH": "C:\\msys64\\ucrt64\\bin;C:\\Users\\leoeugenio\\Documents\\cmake-4.0.2-windows-x86_64\\bin;C:\\Users\\leoeugenio\\Documents\\PortableGit\\bin;${env:PATH}"
+    },
+    "cmake.buildEnvironment": {
+        "PATH": "C:\\msys64\\ucrt64\\bin;C:\\Users\\leoeugenio\\Documents\\cmake-4.0.2-windows-x86_64\\bin;C:\\Users\\leoeugenio\\Documents\\PortableGit\\bin;${env:PATH}"
+    }
+}
