@@ -45,6 +45,7 @@ include_directories(${stb_image_SOURCE_DIR})
 # Lista de exemplos/exercícios podem ser colocados aqui também
 set(EXERCISES
     Objeto3D
+    ObjLoader
 )
 
 add_compile_options(-Wno-pragmas)
